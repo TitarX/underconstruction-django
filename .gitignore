@@ -136,3 +136,5 @@ nbproject/
 *.sublime-workspace
 *.komodoproject
 *.kate-swp
+
+*.back.*
