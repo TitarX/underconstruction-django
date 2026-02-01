@@ -63,7 +63,6 @@ media_root/
 local_settings.py
 .settings/
 .env
-.env.*
 secrets.json
 
 # Migrations (обычно НЕ игнорируем — отметьте при необходимости)
